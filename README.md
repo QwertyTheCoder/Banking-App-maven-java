@@ -167,7 +167,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@qwertypixelart](https://github.com/qwertypixelart)
 
 ## 🙏 Acknowledgments
 
@@ -177,7 +177,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For support, email your.email@example.com or open an issue in the repository.
+For support, email or open an issue in the repository.
 
 ## 🔮 Future Enhancements
 
@@ -193,3 +193,4 @@ For support, email your.email@example.com or open an issue in the repository.
 ---
 
 **⭐ If you found this project helpful, please give it a star!**
+
