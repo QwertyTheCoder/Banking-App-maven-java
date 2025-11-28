@@ -167,7 +167,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@qwertypixelart](https://github.com/qwertypixelart)
+- GitHub: [@qwertythecoder](https://github.com/qwertythecoder)
 
 ## 🙏 Acknowledgments
 
@@ -193,4 +193,5 @@ For support, email or open an issue in the repository.
 ---
 
 **⭐ If you found this project helpful, please give it a star!**
+
 
