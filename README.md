@@ -142,13 +142,13 @@ mavenproject3/
 ## 📸 Screenshots
 
 ### Login Screen
-![Login Screen](screenshots/login.png)
+![Login Screen](login.png)
 
 ### Main Menu
-![Main Menu](screenshots/mainmenu.png)
+![Main Menu](mainmenu.png)
 
 ### Transfer Screen
-![Transfer](screenshots/transfer.png)
+![Transfer](transfer.png)
 
 ## 🤝 Contributing
 
@@ -166,7 +166,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**Your Name**
+**QwertyTheCoder**
 - GitHub: [@qwertythecoder](https://github.com/qwertythecoder)
 
 ## 🙏 Acknowledgments
@@ -193,5 +193,6 @@ For support, email or open an issue in the repository.
 ---
 
 **⭐ If you found this project helpful, please give it a star!**
+
 
 
